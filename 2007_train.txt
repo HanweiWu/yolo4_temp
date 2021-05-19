@@ -1,0 +1,11 @@
+C:\Users\WHW\Desktop\yolov4-pytorch-master/VOCdevkit/VOC2007/JPEGImages/hard_hat_workers0.png 357,116,404,175,0 4,146,39,184,0 253,139,275,177,0 300,145,323,181,0 116,151,138,180,0 80,151,100,180,0 62,144,83,172,1 322,141,345,178,1 175,156,194,186,1 222,151,240,182,1 200,146,216,173,1 98,140,112,160,0 157,150,175,177,1
+C:\Users\WHW\Desktop\yolov4-pytorch-master/VOCdevkit/VOC2007/JPEGImages/hard_hat_workers1.png 116,230,141,252,0 99,249,126,274,0 42,212,70,243,0 183,237,210,263,0 204,193,227,217,0 244,109,269,137,0 275,210,303,238,0 257,173,282,196,0 243,0,269,28,0
+C:\Users\WHW\Desktop\yolov4-pytorch-master/VOCdevkit/VOC2007/JPEGImages/hard_hat_workers10.png 219,68,255,116,0 290,134,322,169,0 371,134,403,169,0
+C:\Users\WHW\Desktop\yolov4-pytorch-master/VOCdevkit/VOC2007/JPEGImages/hard_hat_workers2.png 329,216,360,245,0 298,222,323,251,0
+C:\Users\WHW\Desktop\yolov4-pytorch-master/VOCdevkit/VOC2007/JPEGImages/hard_hat_workers3.png 200,151,227,185,0 49,157,62,168,0 186,186,200,201,0
+C:\Users\WHW\Desktop\yolov4-pytorch-master/VOCdevkit/VOC2007/JPEGImages/hard_hat_workers4.png 99,144,155,204,0
+C:\Users\WHW\Desktop\yolov4-pytorch-master/VOCdevkit/VOC2007/JPEGImages/hard_hat_workers5.png 89,118,113,148,0 330,278,342,290,0 313,250,322,262,0 89,0,114,21,0 330,402,342,414,0
+C:\Users\WHW\Desktop\yolov4-pytorch-master/VOCdevkit/VOC2007/JPEGImages/hard_hat_workers6.png 86,153,105,172,0 128,165,146,187,0
+C:\Users\WHW\Desktop\yolov4-pytorch-master/VOCdevkit/VOC2007/JPEGImages/hard_hat_workers7.png 359,93,414,170,0 330,135,367,179,0 358,0,414,48,0
+C:\Users\WHW\Desktop\yolov4-pytorch-master/VOCdevkit/VOC2007/JPEGImages/hard_hat_workers8.png 54,107,116,181,1 157,107,216,191,1 231,139,280,201,1 283,94,361,185,1 54,0,117,32,1 156,0,216,32,1 283,0,362,45,1
+C:\Users\WHW\Desktop\yolov4-pytorch-master/VOCdevkit/VOC2007/JPEGImages/hard_hat_workers9.png 266,78,300,124,0
